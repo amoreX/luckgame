@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    color:red;
+}
+.invisible{
+    display:none;
+}
+.body-container{
+    display:flex;
+    justify-content: space-between;
+}
+.p1{
+    padding-left: 350px;
+    color:red;
+}
+.p2{
+    padding-right: 350px;
+    color:red;
+}
+#p1dice{
+    padding-left: 280px;
+    max-width:250px;
+    max-height:250px;
+}
+#p2dice{
+    padding-left:459px;
+    max-width: 250px;
+    max-height:250px;
+}
