@@ -27,3 +27,26 @@ h1{
     max-width: 250px;
     max-height:250px;
 }
+.butt{
+    padding-top:50px;
+    text-align: center;   
+}
+@media screen and (max-width:1000px){
+    .p1{
+        padding-left:250px;
+    }
+    .p2{
+        padding-right:200px;
+    }
+    #p1dice{
+        padding-left:173px;
+    }
+    #p2dice{
+        padding-left:200px;
+        max-width: 250px;
+        max-height:250px;
+    }
+    .butt{
+        padding-left:83px;
+    }
+}

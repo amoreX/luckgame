@@ -22,3 +22,7 @@ if(num2>num1){
 if(num1===num2){
     alert("ITS A DRAW!!");
 }
+
+function ref(){
+    location.reload();
+}
